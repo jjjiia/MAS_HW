@@ -26,7 +26,7 @@ class ElectionResults:
 			if columns[3] != "Obama vote":
 				total += int(columns[3])
 		return total
-			
+			t
 
     def romneyVotes(self):
 		total = 0
